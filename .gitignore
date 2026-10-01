@@ -1,0 +1,28 @@
+# 编译产物
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.axf
+*.map
+*.lst
+*.out
+
+# 工程/IDE 临时目录
+build/
+obj/
+Debug/
+Release/
+.vscode/
+.idea/
+
+# Keil / STC 等工程产物
+*.uvguix.*
+*.uvoptx
+Listings/
+Objects/
+
+# 系统
+Thumbs.db
+desktop.ini
